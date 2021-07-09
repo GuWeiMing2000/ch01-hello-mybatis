@@ -34,7 +34,7 @@ public class MyApp {
         for(Student stu : studentList){
             System.out.println("查询的学生="+stu);
         }
-        //9.关闭SqlSession对象。
+        //9.关闭SqlSession对象。....
         sqlSession.close();
 
     }
