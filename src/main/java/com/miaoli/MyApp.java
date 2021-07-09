@@ -35,6 +35,7 @@ public class MyApp {
             System.out.println("查询的学生="+stu);
         }
         //9.关闭SqlSession对象。....
+        // 456
         sqlSession.close();
 
     }
