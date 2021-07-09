@@ -36,6 +36,7 @@ public class MyApp {
         }
         //9.关闭SqlSession对象。....
         // 123
+        // 456
         sqlSession.close();
 
     }
